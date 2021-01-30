@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referrer=http://v2.01film.cc
 #EXTINF:0,Tasti
-#EXTVLCOPT:http-referer=http://v2.01film.cc
 http://video3.01film.cc/Tasty%20Brother%202020.720p.HDRip.01NONTON.mp4
