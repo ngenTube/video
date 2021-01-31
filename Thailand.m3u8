@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=233472,RESOLUTION=146x260
+https://cs6-12v4.vkuservideo.net/video/hls/p3/dee970a754a6/index-f1-v1-a1.m3u8?extra=-7JSEEOfEwGN4Of6aBK2ST7r8NNNVqseGe_cFIoEyfbK4ziEB_jpqbjmpbWF-AmnX4jTAn-UX4OiypoNh9MFNWe-wzz_qFNBbjMEoBB-qdVqKJfYE_gpYeKxfuHgdicBxc6GnX8XJe3OwA1STWi5aADkKrgq0g
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=288768,RESOLUTION=202x360
+https://cs6-9v4.vkuservideo.net/video/hls/p1/dee970a754a6/index-f2-v1-a1.m3u8?extra=-3g3XG10pj7MD7A463xQdqU60IzaErximemmfnPzCVpoFoJXcsFPgGmFznepVei9VWXivvESdPitS1nlfeFMKV2WhA709ogoMjDEa17YEYkTvk1Sho6ojeM3GzITNzJb3DXnuexUQ5ktHkT3w7o9wFBsL1HNRg
