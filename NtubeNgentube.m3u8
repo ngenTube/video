@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=312320,RESOLUTION=320x180
+https://cs6-6v4.vkuservideo.net/video/hls/p1/f59212186e3f/index-f1-v1-a1.m3u8?extra=49VHsFjFGx3ghhzt97Yc5opH04JqKvYpHabuosuGjaxMx8YocZhHH8oCz8AVbolo7dTbjlNLeyHiSGvfsR_U0s0l9IFOi0GvHVgJj-cFB7GFOHxx7U9ub7s7cltexiKPqMOzeqg5sb5DORmKXfpkmbMClmE
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=637952,RESOLUTION=640x360
+https://cs6-1v4.vkuservideo.net/video/hls/p3/f59212186e3f/index-f2-v1-a1.m3u8?extra=1etg4P_GurN-ECkTRZEdFNOGrsHUE0InEWHsylBxF-2oQVSMblwc-GjjpILnSWerWDO1OI1Hk24l3luDHOCLv5Kl-Sn-J0zftrzDqzh7d_RJh3cspZ5MauGPv39KuVSbnj6AyqCBk826SomteAGfBjzlJOc
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1064960,RESOLUTION=854x480
+https://cs6-10v4.vkuservideo.net/video/hls/p3/f59212186e3f/index-f3-v1-a1.m3u8?extra=1etg4P_GurN-ECkTRZEdFNOGrsHUE0InEWHsylBxF-2oQVSMblwc-GjjpILnSWerWDO1OI1Hk24l3luDHOCLv5Kl-Sn-J0zftrzDqzh7d_RJh3cspZ5MauGPv39KuVSbnj6AyqCBk826SomteAGfBjzlJOc
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2224128,RESOLUTION=1280x720
+https://cs6-7v4.vkuservideo.net/video/hls/p4/f59212186e3f/index-f4-v1-a1.m3u8?extra=3jOkzenCD_IQTC7ybnCpiAqankcCpqzEkPjZyutxRkpc8Uv8eieP2tVoz1mfaPv3j6fiESFgXnjzktRjtz24liQw5bDnSSELqp4ZlQVT2Etpk8Is51GxEIAelEKoxZiX1lTFOx0hUaoHrGQlsBHy_A7P3cw
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7108608,RESOLUTION=1920x1080
+https://cs6-2v4.vkuservideo.net/video/hls/p3/f59212186e3f/index-f5-v1-a1.m3u8?extra=1etg4P_GurN-ECkTRZEdFNOGrsHUE0InEWHsylBxF-2oQVSMblwc-GjjpILnSWerWDO1OI1Hk24l3luDHOCLv5Kl-Sn-J0zftrzDqzh7d_RJh3cspZ5MauGPv39KuVSbnj6AyqCBk826SomteAGfBjzlJOc
